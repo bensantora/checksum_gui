@@ -1,3 +1,5 @@
+//If this tool provided value please consider awarding it a ⭐.
+
 slint::include_modules!();
 
 use sha2::{Digest, Sha256};
